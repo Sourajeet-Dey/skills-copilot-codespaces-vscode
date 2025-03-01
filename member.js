@@ -1,4 +1,4 @@
-function skillsFunction() {
+function skillsMember() {
   var x = document.getElementById("skills");
   if (x.style.display === "none") {
     x.style.display = "block";
